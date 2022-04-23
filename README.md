@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App using react@17 react-dom@17 react-router-dom@5.2.0
 
 ### `package.json`
 
@@ -41,7 +41,7 @@ ReactDOM.render(\
   </React.StrictMode>,\
   document.getElementById('root')\
 );
-
+### `Install react-router-dom@5.2.0`
 ### `Delete your node_modules and run npm/yarn install`
 ### `After installation, run npm/yarn start`
 
