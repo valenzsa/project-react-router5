@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### package.json
+### `package.json`
 
 Uninstall/replace
 
@@ -12,7 +12,7 @@ with
 "react": "^17.0.2"\
 "react-dom": "^17.0.2"
 
-### index.js
+### `index.js`
 
 Replace
 
@@ -22,7 +22,7 @@ with
 
 import ReactDOM from 'react-dom';
 
-### still in index.js
+### `still in index.js`
 
 Replace
 
@@ -42,8 +42,8 @@ ReactDOM.render(\
   document.getElementById('root')\
 );
 
-### Delete your node_modules and run npm/yarn install
-### After installation, run npm/yarn start
+### `Delete your node_modules and run npm/yarn install`
+### `After installation, run npm/yarn start`
 
 ## Available Scripts
 
